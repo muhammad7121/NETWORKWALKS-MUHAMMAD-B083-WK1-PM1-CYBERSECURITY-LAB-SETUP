@@ -78,13 +78,10 @@ I also checked the **Acceleration** settings and confirmed that everything was w
 
 During the setup, I encountered the following challenges:
 
-1. **Incorrect Kali Linux download:**
-   I initially downloaded the ISO version of Kali Linux, but I was unable to install it successfully on VirtualBox.
-
-2. **Network connectivity issue:**
+1. **Network connectivity issue:**
    After configuring the static IP address, the network was not connecting as expected.
 
-3. **Troubleshooting the network:**
+2. **Troubleshooting the network:**
    With assistance from the team lead, I added another IP address and tested the connection by pinging **8.8.8.8**, which helped confirm that the network was working.
 
            ## Lessons Learned
